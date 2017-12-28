@@ -1,7 +1,6 @@
 
 Hello GitHub
 
-githubTset
 
 目录：
 
