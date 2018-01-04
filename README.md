@@ -7,4 +7,3 @@ Hello GitHub
  - Name :gaojulong
  - QQ: 49465154
  - Email:gaojulong@outlook.com
-介绍
